@@ -4,7 +4,7 @@
             "id": 1,
             "num": "012",
             "name": "José da Silva Peixoto - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "06:00",
@@ -33,13 +33,13 @@
                 ],
                 "obs": "Observações",
                 "observations": "OPERAÇÃO SUSPENSA AOS DOMINGOS E FERIADOS POR FALTA DE DEMANDA(PROC. ADM Nº 7100.102090/2017).    ESTA LINHA OPERA COM BILHETAGEM PLENA EM TODAS AS VIAGENS."
-            }
+            }]
         },
         {
             "id": 2,
             "num": "017",
             "name": "São Jorge - Centro - Ponta Verde",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -90,13 +90,13 @@
                     "20:40",
                     "21:50"
                 ]
-            }
+            }]
         },
         {
             "id": 3,
             "num": "022",
             "name": "São Jorge - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:30",
@@ -143,13 +143,13 @@
                     "12:55",
                     "14:55"
                 ]
-            }
+            }]
         },
         {
             "id": 4,
             "num": "024",
             "name": "Gruta - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "06:00",
@@ -170,13 +170,13 @@
                     "20:50",
                     "22:00"
                 ]
-            }
+            }]
         },
         {
             "id": 5,
             "num": "027",
             "name": "Vila Saem - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "06:00",
@@ -190,13 +190,13 @@
                     "16:30",
                     "18:00"
                 ]
-            }
+            }]
         },
         {
             "id": 6,
             "num": "033",
             "name": "José Tenório - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:25",
@@ -230,13 +230,13 @@
                 ],
                 "obs": "Observações",
                 "observations": "ESTA LINHA TEM A OPERAÇÃO DIVIDIDA.   SUSPENSA A OPERAÇÃO AOS DOM/FER   A PARTIR DE 01/01/2020, E AOS SÁB.  A   PARTIR DE 23/03/2020, SUBSTITUÍDA PELA LINHA 606 VIA CENTRO NA IDA."
-            }
+            }]
         },
         {
             "id": 7,
             "num": "035",
             "name": "Ouro preto - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:40",
@@ -291,13 +291,13 @@
                     "20:45",
                     "22:00"
                 ]
-            }
+            }]
         },
         {
             "id": 8,
             "num": "036",
             "name": "Dubeaux Leão - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:40",
@@ -407,13 +407,13 @@
                     "20:10",
                     "21:20"
                 ]
-            }
+            }]
         },
         {
             "id": 9,
             "num": "041",
             "name": "Feitosa - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:30",
@@ -459,25 +459,25 @@
                     "13:10",
                     "14:00"
                 ]
-            }
+            }]
         },
         {
             "id": 10,
             "num": "197",
             "name": "Corujão - Ipioca - Trapiche",
-            "days": {
+            "days": [{
                 "tod": "Todos os Dias",
                 "everyday": [
                     "02:00",
                     "04:20"
                 ]
-            }
+            }]
         },
         {
             "id": 11,
             "num": "208",
             "name": "Jacarecica - Vergel",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "06:00",
@@ -502,13 +502,13 @@
                     "11:00",
                     "13:00"
                 ]
-            }
+            }]
         },
         {
             "id": 12,
             "num": "221",
             "name": "Saúde - Cruz das almas",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:40",
@@ -570,13 +570,13 @@
                     "17:00",
                     "18:00"
                 ]
-            }
+            }]
         },
         {
             "id": 13,
             "num": "223",
             "name": "Ipioca - Mercado (Via p. Verde)",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:30",
@@ -656,13 +656,13 @@
                     "21:30",
                     "22:10"
                 ]
-            }
+            }]
         },
         {
             "id": 14,
             "num": "226",
             "name": "Ipioca / Trapiche (Via Poço)",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:45",
@@ -746,25 +746,25 @@
                     "21:20",
                     "22:00"
                 ]
-            }
+            }]
         },
         {
             "id": 15,
             "num": "599",
             "name": "Corujão - C. das Almas - S. Jorge - Sanatório",
-            "days": {
+            "days": [{
                 "tod": "Todos os Dias",
                 "everyday": [
                     "02:00",
                     "04:10"
                 ]
-            }
+            }]
         },
         {
             "id": 16,
             "num": "603",
             "name": "Mirante / Vergel",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:20",
@@ -850,13 +850,13 @@
                     "20:30",
                     "21:45"
                 ]
-            }
+            }]
         },
         {
             "id": 17,
             "num": "604",
             "name": "Eust. Gomes - Term. Cruz das Almas",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:15",
@@ -998,13 +998,13 @@
                     "21:30",
                     "22:00"
                 ]
-            }
+            }]
         },
         {
             "id": 18,
             "num": "606",
             "name": "José Tenório / Iguatemi",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:30",
@@ -1066,13 +1066,13 @@
                     "21:00",
                     "22:00"
                 ]
-            }
+            }]
         },
         {
             "id": 19,
             "num": "618",
             "name": "Gruta / Cruz das Almas (Via P. Verde)",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:30",
@@ -1129,13 +1129,13 @@
                     "21:10",
                     "22:10"
                 ]
-            }
+            }]
         },
         {
             "id": 20,
             "num": "700",
             "name": "Gruta - Ponta Verde",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:20",
@@ -1200,13 +1200,13 @@
                     "18:00",
                     "19:00"
                 ]
-            }
+            }]
         },
         {
             "id": 21,
             "num": "708",
             "name": "Cruz das Almas - Ponta Verde",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:10",
@@ -1251,13 +1251,13 @@
                     "19:00",
                     "21:00"
                 ]
-            }
+            }]
         },
         {
             "id": 22,
             "num": "1019",
             "name": "Alimentadora - Alto de Ipioca - AL 101 Norte",
-            "days": {
+            "days": [{
                 "tod": "Todos os Dias",
                 "everyday": [
                     "04:30",
@@ -1298,13 +1298,13 @@
                     "23:00",
                     "23:35"
                 ]
-            }
+            }]
         },
         {
             "id": 23,
             "num": "1020",
             "name": "Cruz das Almas - São Jorge (Alimentadora)",
-            "days": {
+            "days": [{
                 "sab": "Sábado",
                 "saturday": [
                     "05:00",
@@ -1383,13 +1383,13 @@
                     "21:20",
                     "22:00"
                 ]
-            }
+            }]
         },
         {
             "id": 24,
             "num": "051",
             "name": "Santos Dumont - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:10",
@@ -1428,13 +1428,13 @@
                     "19:45",
                     "21:15"
                 ]
-            }
+            }]
         },
         {
             "id": 25,
             "num": "056",
             "name": "João Sampaio - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:20",
@@ -1488,13 +1488,13 @@
                     "20:20",
                     "21:30"
                 ]
-            }
+            }]
         },
         {
             "id": 26,
             "num": "057",
             "name": "Rio Novo - Centro - Via Farol",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -1555,13 +1555,13 @@
                     "20:20",
                     "21:30"
                 ]
-            }
+            }]
         },
         {
             "id": 27,
             "num": "058",
             "name": "Fernão Velho - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:20",
@@ -1582,13 +1582,13 @@
                     "20:30",
                     "21:40"
                 ]
-            }
+            }]
         },
         {
             "id": 28,
             "num": "065",
             "name": "Rosane Collor - Centro - Farol",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:10",
@@ -1656,13 +1656,13 @@
                     "20:20",
                     "21:30"
                 ]
-            }
+            }]
         },
         {
             "id": 29,
             "num": "068",
             "name": "Colina - Centro - via Pç. Faculdade",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "06:00",
@@ -1729,13 +1729,13 @@
                     "21:00",
                     "21:45"
                 ]
-            }
+            }]
         },
         {
             "id": 30,
             "num": "069",
             "name": "Clima Bom - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:20",
@@ -1803,13 +1803,13 @@
                     "20:20",
                     "21:30"
                 ]
-            }
+            }]
         },
         {
             "id": 31,
             "num": "102",
             "name": "João Sampaio / Trapiche",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:10",
@@ -1850,13 +1850,13 @@
                     "20:20",
                     "21:30"
                 ]
-            }
+            }]
         },
         {
             "id": 32,
             "num": "108",
             "name": "Clima Bom - Via Colina - Trapiche",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -1939,13 +1939,13 @@
                     "20:15",
                     "21:15"
                 ]
-            }
+            }]
         },
         {
             "id": 33,
             "num": "709",
             "name": "Chã da Jaqueira - Ponta Verde - Mutirão",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:10",
@@ -2021,13 +2021,13 @@
                     "20:20",
                     "21:40"
                 ]
-            }
+            }]
         },
         {
             "id": 34,
             "num": "710",
             "name": "Chã da Jaqueira - Ponta Verde - Boa Vista",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -2142,13 +2142,13 @@
                     "20:30",
                     "21:30"
                 ]
-            }
+            }]
         },
         {
             "id": 35,
             "num": "711",
             "name": "UFAL - Ponta Verde",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:30",
@@ -2206,13 +2206,13 @@
                     "20:25",
                     "21:30"
                 ]
-            }
+            }]
         },
         {
             "id": 36,
             "num": "712",
             "name": "Santos Dumont - Ponta Verde",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -2298,13 +2298,13 @@
                     "20:30",
                     "21:30"
                 ]
-            }
+            }]
         },
         {
             "id": 37,
             "num": "715",
             "name": "Rio Novo - Rosane Collor - Ponta Verde",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:40",
@@ -2437,13 +2437,13 @@
                     "21:50",
                     "22:00"
                 ]
-            }
+            }]
         },
         {
             "id": 38,
             "num": "716",
             "name": "Clima Bom - Ponta Verde",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -2582,13 +2582,13 @@
                     "21:00",
                     "21:40"
                 ]
-            }
+            }]
         },
         {
             "id": 39,
             "num": "719",
             "name": "Chã Nova - Ponta Verde",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:50",
@@ -2616,25 +2616,25 @@
                     "18:20",
                     "20:10"
                 ]
-            }
+            }]
         },
         {
             "id": 40,
             "num": "798",
             "name": "Corujão",
-            "days": {
+            "days": [{
                 "tod": "Todos os Dias",
                 "everyday": [
                     "02:00",
                     "04:10"
                 ]
-            }
+            }]
         },
         {
             "id": 41,
             "num": "802",
             "name": "Colina - Benedito Bentes",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -2725,13 +2725,13 @@
                     "20:20",
                     "21:30"
                 ]
-            }
+            }]
         },
         {
             "id": 42,
             "num": "2058",
             "name": "Fernão Velho - Colina",
-            "days": {
+            "days": [{
                 "sab": "Sábado",
                 "saturday": [
                     "05:20",
@@ -2772,13 +2772,13 @@
                     "20:00",
                     "21:00"
                 ]
-            }
+            }]
         },
         {
             "id": 43,
             "num": "107",
             "name": "Cruz das Almas - Trapiche",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -2824,13 +2824,13 @@
                     "19:40",
                     "21:10"
                 ]
-            }
+            }]
         },
         {
             "id": 44,
             "num": "201",
             "name": "Circular I",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -2896,13 +2896,13 @@
                     "20:20",
                     "21:30"
                 ]
-            }
+            }]
         },
         {
             "id": 45,
             "num": "202",
             "name": "Circular II",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -2949,13 +2949,13 @@
                     "20:50",
                     "22:00"
                 ]
-            }
+            }]
         },
         {
             "id": 46,
             "num": "210",
             "name": "Ponta Verde - Vergel",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:30",
@@ -2999,13 +2999,13 @@
                     "20:10",
                     "21:30"
                 ]
-            }
+            }]
         },
         {
             "id": 47,
             "num": "213",
             "name": "Vergel - Ponta Verde",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:50",
@@ -3048,13 +3048,13 @@
                     "20:30",
                     "21:50"
                 ]
-            }
+            }]
         },
         {
             "id": 48,
             "num": "407",
             "name": "Trapiche - Hospital Usineiro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:25",
@@ -3096,13 +3096,13 @@
                     "20:20",
                     "21:40"
                 ]
-            }
+            }]
         },
         {
             "id": 49,
             "num": "503",
             "name": "Joaquim Leão - Feitosa",
-            "days": {
+            "days": [{
                 "tod": "Todos os Dias",
                 "everyday": [
                     "05:30",
@@ -3120,13 +3120,13 @@
                     "19:55",
                     "21:20"
                 ]
-            }
+            }]
         },
         {
             "id": 50,
             "num": "605",
             "name": "Pontal - Iguatemi",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:40",
@@ -3172,13 +3172,13 @@
                     "20:15",
                     "21:35"
                 ]
-            }
+            }]
         },
         {
             "id": 51,
             "num": "713",
             "name": "Joaquim Leão - Ponta Verde",
-            "days": {
+            "days": [{
                 "tod": "Todos os Dias",
                 "everyday": [
                     "05:00",
@@ -3198,25 +3198,25 @@
                     "21:00",
                     "22:25"
                 ]
-            }
+            }]
         },
         {
             "id": 52,
             "num": "797",
             "name": "Corujão - Joaquim Leão - Ponta Verde",
-            "days": {
+            "days": [{
                 "tod": "Todos os Dias",
                 "everyday": [
                     "00:00",
                     "03:00"
                 ]
-            }
+            }]
         },
         {
             "id": 53,
             "num": "906",
             "name": "Pontal - UFAL (Vergel - Centro)",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -3265,13 +3265,13 @@
                     "20:20",
                     "21:40"
                 ]
-            }
+            }]
         },
         {
             "id": 54,
             "num": "037",
             "name": "Salvador Lyra - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -3310,13 +3310,13 @@
                     "20:15",
                     "21:00"
                 ]
-            }
+            }]
         },
         {
             "id": 55,
             "num": "039",
             "name": "Cleto Marques - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -3342,13 +3342,13 @@
                     "19:50",
                     "20:30"
                 ]
-            }
+            }]
         },
         {
             "id": 56,
             "num": "042",
             "name": "Benedito Bentes - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -3459,13 +3459,13 @@
                     "20:00",
                     "21:00"
                 ]
-            }
+            }]
         },
         {
             "id": 57,
             "num": "046",
             "name": "Village Campestre - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -3530,13 +3530,13 @@
                     "19:30",
                     "21:00"
                 ]
-            }
+            }]
         },
         {
             "id": 58,
             "num": "048",
             "name": "Benedito Bentes - Centro (Via Josepha de Mello)",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -3625,13 +3625,13 @@
                     "20:00",
                     "21:40"
                 ]
-            }
+            }]
         },
         {
             "id": 59,
             "num": "049",
             "name": "Eustáquio Gomes - Cento",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:30",
@@ -3653,13 +3653,13 @@
                     "19:30",
                     "21:00"
                 ]
-            }
+            }]
         },
         {
             "id": 60,
             "num": "052",
             "name": "Eust. Gomes - Centro - Sta Lucia",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:40",
@@ -3696,13 +3696,13 @@
                     "17:00",
                     "20:00"
                 ]
-            }
+            }]
         },
         {
             "id": 61,
             "num": "053",
             "name": "Grac. Ramos - Village II - Centro",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -3778,13 +3778,13 @@
                     "17:40",
                     "20:00"
                 ]
-            }
+            }]
         },
         {
             "id": 62,
             "num": "072",
             "name": "Gama Lins - Colina - Ponta Verde",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -3830,26 +3830,26 @@
                     "19:00",
                     "21:05"
                 ]
-            }
+            }]
         },
         {
             "id": 63,
             "num": "097",
             "name": "Corujão - Village Campestre - Centro",
-            "days": {
+            "days": [{
                 "tod": "Todos os Dias",
                 "everyday": [
                     "00:00",
                     "02:00",
                     "04:20"
                 ]
-            }
+            }]
         },
         {
             "id": 64,
             "num": "104",
             "name": "Benedito Bentes - Trapiche",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:30",
@@ -3957,13 +3957,13 @@
                     "19:30",
                     "20:30"
                 ]
-            }
+            }]
         },
         {
             "id": 65,
             "num": "105",
             "name": "Jardim Petrópolis - Trapiche - Terminal Salvador Lyra",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:30",
@@ -3974,13 +3974,13 @@
                     "18:00",
                     "20:45"
                 ]
-            }
+            }]
         },
         {
             "id": 66,
             "num": "110",
             "name": "Graciliano Ramos - Trapiche",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -4021,13 +4021,13 @@
                     "17:15",
                     "20:15"
                 ]
-            }
+            }]
         },
         {
             "id": 67,
             "num": "117",
             "name": "Village II - Trapiche (Cambucí - Rodoviária)",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -4069,13 +4069,13 @@
                     "17:00",
                     "20:00"
                 ]
-            }
+            }]
         },
         {
             "id": 68,
             "num": "214",
             "name": "Henrique Equelman - Vergel",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:40",
@@ -4127,13 +4127,13 @@
                     "17:15",
                     "19:50"
                 ]
-            }
+            }]
         },
         {
             "id": 69,
             "num": "217",
             "name": "B. Bentes - Mercado - Feitosa",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:40",
@@ -4205,13 +4205,13 @@
                     "20:55",
                     "22:20"
                 ]
-            }
+            }]
         },
         {
             "id": 70,
             "num": "230",
             "name": "Forene - Trapiche",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:40",
@@ -4278,13 +4278,13 @@
                     "17:40",
                     "21:00"
                 ]
-            }
+            }]
         },
         {
             "id": 71,
             "num": "602",
             "name": "Salvador Lyra - Iguatemi",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:45",
@@ -4408,13 +4408,13 @@
                     "21:20",
                     "22:00"
                 ]
-            }
+            }]
         },
         {
             "id": 72,
             "num": "607",
             "name": "Eustáquio Gomes - Iguatemi",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -4484,13 +4484,13 @@
                     "19:20",
                     "20:50"
                 ]
-            }
+            }]
         },
         {
             "id": 73,
             "num": "703",
             "name": "Benedito Bentes - P. Verde - Gruta",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:40",
@@ -4629,13 +4629,13 @@
                     "20:10",
                     "21:00"
                 ]
-            }
+            }]
         },
         {
             "id": 74,
             "num": "704",
             "name": "Benedito Bentes - Ponta Verde",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:40",
@@ -4790,13 +4790,13 @@
                     "21:25",
                     "22:05"
                 ]
-            }
+            }]
         },
         {
             "id": 75,
             "num": "706",
             "name": "Eustáquio Gomes - Ponta Verde",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:30",
@@ -4879,13 +4879,13 @@
                     "20:00",
                     "21:40"
                 ]
-            }
+            }]
         },
         {
             "id": 76,
             "num": "707",
             "name": "Grac. Ramos - P. Verde",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:50",
@@ -4968,13 +4968,13 @@
                     "20:00",
                     "21:00"
                 ]
-            }
+            }]
         },
         {
             "id": 77,
             "num": "717",
             "name": "Grac. Ramos - P. Verde",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:50",
@@ -5048,25 +5048,25 @@
                     "18:35",
                     "20:35"
                 ]
-            }
+            }]
         },
         {
             "id": 78,
             "num": "796",
             "name": "Corujão - Benedito Bentes - P. Verde",
-            "days": {
+            "days": [{
                 "tod": "Todos os Dias",
                 "everyday": [
                     "00:00",
                     "03:00"
                 ]
-            }
+            }]
         },
         {
             "id": 79,
             "num": "804",
             "name": "Cidade sorriso - T.I. B. Bentes",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -5145,13 +5145,13 @@
                     "21:30",
                     "23:00"
                 ]
-            }
+            }]
         },
         {
             "id": 80,
             "num": "805",
             "name": "Guaxuma - T.I. B. Bentes",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:10",
@@ -5249,13 +5249,13 @@
                     "22:30",
                     "23:30"
                 ]
-            }
+            }]
         },
         {
             "id": 81,
             "num": "806",
             "name": "T.I. B. Bentes - Conj. Caetes",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:00",
@@ -5295,13 +5295,13 @@
                     "12:00",
                     "12:30"
                 ]
-            }
+            }]
         },
         {
             "id": 82,
             "num": "807",
             "name": "José Aprígio - T.I. B.Bentes",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:00",
@@ -5452,13 +5452,13 @@
                     "22:20",
                     "23:00"
                 ]
-            }
+            }]
         },
         {
             "id": 83,
             "num": "809",
             "name": "Selma Bandeira - T.I B. Bentes",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:00",
@@ -5575,13 +5575,13 @@
                     "22:45",
                     "23:30"
                 ]
-            }
+            }]
         },
         {
             "id": 84,
             "num": "812",
             "name": "Cj. Carminha - T.I B.Bentes",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:40",
@@ -5667,13 +5667,13 @@
                     "21:25",
                     "22:20"
                 ]
-            }
+            }]
         },
         {
             "id": 85,
             "num": "901",
             "name": "T.I. Benedito Bentes / Eust. Gomes (Via Hospital Metropolitano)",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "05:00",
@@ -5708,13 +5708,13 @@
                     "20:20",
                     "21:30"
                 ]
-            }
+            }]
         },
         {
             "id": 86,
             "num": "903",
             "name": "Benedito Bentes - Eust .Gomes",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "06:10",
@@ -5757,13 +5757,13 @@
                     "18:50",
                     "21:00"
                 ]
-            }
+            }]
         },
         {
             "id": 87,
             "num": "4003",
             "name": "Term. Eust. Gomes - Conj. Grand Jardim",
-            "days": {
+            "days": [{
                 "tod": "Todos os Dias",
                 "everyday": [
                     "04:30",
@@ -5791,13 +5791,13 @@
                     "21:30",
                     "22:15"
                 ]
-            }
+            }]
         },
         {
             "id": 88,
             "num": "4005",
             "name": "T.I. Benedito Bentes - Frei Damião",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:42",
@@ -5874,13 +5874,13 @@
                     "19:55",
                     "20:55"
                 ]
-            }
+            }]
         },
         {
             "id": 89,
             "num": "4006",
             "name": "T.I. Benedito Bentes - Mocambo",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:00",
@@ -6068,13 +6068,13 @@
                     "22:50",
                     "23:30"
                 ]
-            }
+            }]
         },
         {
             "id": 90,
             "num": "4007",
             "name": "T.I. Benedito Bentes - Cidade Sorriso II",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:00",
@@ -6099,13 +6099,13 @@
                     "09:50",
                     "10:40"
                 ]
-            }
+            }]
         },
         {
             "id": 91,
             "num": "4011",
             "name": "Term. Salv. Lyra - T.I. B.Bentes - Via Recantos",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:30",
@@ -6172,13 +6172,13 @@
                     "21:00",
                     "22:10"
                 ]
-            }
+            }]
         },
         {
             "id": 92,
             "num": "4012",
             "name": "Term. Eust. Gomes / Residencial Maceió 1",
-            "days": {
+            "days": [{
                 "uteis": "Dias Uteis",
                 "workingdays": [
                     "04:30",
@@ -6263,7 +6263,7 @@
                     "22:00",
                     "23:00"
                 ]
-            }
+            }]
         }
     ]
 }
