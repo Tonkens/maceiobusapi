@@ -1,6 +1,5 @@
 {
-    "buslist": [
-        {
+
             "id": 1,
             "num": "012",
             "name": "José da Silva Peixoto - Centro",
@@ -6265,5 +6264,3 @@
                 ]
             }]
         }
-    ]
-}
