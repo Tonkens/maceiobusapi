@@ -1,21 +1,4 @@
-{
-    "mangalist": [{
-        "name": "Spy X Family",
-        "img": "https://cdn.mangayabu.com/capas/spy-x-family-manga.jpg"
-    },
-    {
-        "name": "Blue Lock",
-        "img": "https://cdn.mangayabu.com/capas/blue-lock-manga.jpg"
-    },
-    {
-        "name": "Tate no Yuusha no Nariagari",
-        "img": "https://cdn.mangayabu.com/capas/tate-no-yuusha-no-nariagari-manga.jpg"
-    },
-    {
-        "name": "Boku no Hero Academia",
-        "img": "https://cdn.mangayabu.com/capas/boku-no-hero-academia-manga.jpg"
 
-    },
     {
         "name": "Black Clover",
         "img": "https://cdn.mangayabu.com/capas/black-clover-manga.jpg"
@@ -23,6 +6,5 @@
 
 
 
-]
 
-}
+
